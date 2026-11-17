@@ -1,0 +1,97 @@
+{
+  "format": "motiongit.discovery/1",
+  "repositoryId": "958774",
+  "templateId": 947,
+  "owner": "adunext",
+  "slug": "industry-education-three-solutions",
+  "website": "https://motiongit.com/@adunext/industry-education-three-solutions",
+  "version": "1.0.1",
+  "technical": {
+    "en": [
+      "Declared runtime profile: adudir.generator/1.",
+      "Editable inputs are mapped through the template parameter schema and preset to its existing animation project.",
+      "The declared duration policy follows the current voiceover; the package plan determines final timing rather than the demo length."
+    ],
+    "zh": [
+      "声明的运行配置：adudir.generator/1。",
+      "通过模板参数和预设，将本期文字、数据或素材映射到已有动画工程。",
+      "已声明时长随本期配音适配，最终节奏由包内制作计划确定，样片时长不是固定成片时长。"
+    ]
+  },
+  "checkedAt": "2026-11-17",
+  "availability": "demo-only",
+  "title": {
+    "en": "Education · Three solutions",
+    "zh": "教育 · 三种解法"
+  },
+  "summary": {
+    "en": "Assumptions · Visual reasoning · Equations. Prelaunch portrait talking-head demo. Feedback welcome.",
+    "zh": "假设法 · 抬脚法 · 列方程。行业竖屏口播预上线 Demo，欢迎提出建议。"
+  },
+  "subtitle": {
+    "en": "Education · Three solutions",
+    "zh": "教育 · 三种解法"
+  },
+  "category": {
+    "en": "industry",
+    "zh": "industry"
+  },
+  "ratio": "9:16",
+  "width": 1080,
+  "height": 1920,
+  "fps": 60,
+  "durationSeconds": 110.28,
+  "demo": {
+    "en": "https://motiongit.com/media/previews/industry-v7/05m_edu-demo-9cdf56c7553afde3.mp4",
+    "zh": "https://motiongit.com/@adunext/industry-education-three-solutions?lang=zh",
+    "poster": "https://motiongit.com/media/covers/industry-v7/05m_edu-cover-781475610ce36c93.jpg"
+  },
+  "materials": [
+    {
+      "en": "Your current talking-head video with its original audio for the native presenter workflow.",
+      "zh": "原生口播流程使用的本期人物视频与原声。",
+      "required": true
+    },
+    {
+      "en": "Your photos and a title for this work.",
+      "zh": "这次要呈现的照片与作品标题。",
+      "required": false
+    }
+  ],
+  "dependencies": [
+    {
+      "en": "Declared runtime profile: adudir.generator/1. Check the downloaded package for exact tools and setup steps.",
+      "zh": "声明的运行配置：adudir.generator/1。具体工具与版本以下载包为准。"
+    },
+    {
+      "en": "Use the package dependency lock and setup/check instructions. Check existing tools first, install only missing requirements and verify a preview.",
+      "zh": "按下载包的依赖锁和 setup/check 说明检查已有工具，只补齐缺项，并验证预览。"
+    }
+  ],
+  "goodFor": {
+    "en": [
+      "Assumptions · Visual reasoning · Equations. Prelaunch portrait talking-head demo. Feedback welcome."
+    ],
+    "zh": [
+      "教育类账号的观点、测评和科普口播",
+      "按提词器录一条口播就能出片"
+    ]
+  },
+  "boundaries": {
+    "en": [
+      "The documented output is 1080 × 1920, 60 fps. The public demo is 110.28 seconds.",
+      "Use the actual package parameter bounds; extra materials do not automatically create extra scenes."
+    ],
+    "zh": [
+      "已声明输出为 1080 × 1920，60 fps；公开样片 110.28 秒。",
+      "按实际包的参数边界制作；增加素材不会自动增加场景。"
+    ]
+  },
+  "capabilities": [
+    {
+      "en": "Optional services require a live catalog, template slot and account check before they can be confirmed.",
+      "zh": "配套服务需核对官网实时能力、模板槽位和账号权限后才能确认。",
+      "status": "check-live"
+    }
+  ]
+}
