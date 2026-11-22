@@ -3,7 +3,7 @@
 假设法 · 抬脚法 · 列方程。行业竖屏口播预上线 Demo，欢迎提出建议。
 
 模板与完整下载: https://motiongit.com/@adunext/industry-education-three-solutions
-版本: 1.0.3
+版本: 1.0.4
 Demo 已公开，下载开放状态以官网为准。
 
 ## 技术资料
