@@ -3,7 +3,7 @@
 Assumptions · Visual reasoning · Equations. Prelaunch portrait talking-head demo. Feedback welcome.
 
 Template & full download: https://motiongit.com/@adunext/industry-education-three-solutions
-Version: 1.0.1
+Version: 1.0.2
 Demo available. Check the official page for current download availability.
 
 ## Technical reference

@@ -5,7 +5,7 @@
   "owner": "adunext",
   "slug": "industry-education-three-solutions",
   "website": "https://motiongit.com/@adunext/industry-education-three-solutions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "technical": {
     "en": [
       "Declared runtime profile: adudir.generator/1.",
@@ -18,7 +18,7 @@
       "已声明时长随本期配音适配，最终节奏由包内制作计划确定，样片时长不是固定成片时长。"
     ]
   },
-  "checkedAt": "2026-11-17",
+  "checkedAt": "2026-11-22",
   "availability": "demo-only",
   "title": {
     "en": "Education · Three solutions",
