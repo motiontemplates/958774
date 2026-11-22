@@ -1,7 +1,7 @@
 # Education · Three solutions · MotionGit .motion
 
 Template and full package: https://motiongit.com/@adunext/industry-education-three-solutions
-Version: 1.0.2
+Version: 1.0.3
 Demo available. Check the official page for current download availability.
 
 Declared runtime profile: adudir.generator/1.
